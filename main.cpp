@@ -46,9 +46,7 @@ public:
     "Mniam jak pierwsze piwo na klatce schodowej!",
     "Jeszcze! I jeszcze! I moze byc z plastikiem nawet!",
     "Cukierek jak sen na dopalaczach – ale legalny.",
-    "Czuję, że wraca mi wiara w ludzkość. I w słodycze.",
-    "9",
-    "10"
+    "Czuję, że wraca mi wiara w ludzkość. I w słodycze."
 };
         string srednia_reakcje[] = {
     "No nie wiem, jakby miętowa pasta do zębów udawala lizaka.",
@@ -57,9 +55,7 @@ public:
     "To chyba z tych cukierków, co się je z grzeczności.",
     "Jakby ktoś rozpuścił marzenie w chlorowanej wodzie.",
     "Taki smak 'meh', ale przynajmniej nie kopie jak gaz z kaloryfera.",
-    "Jakbym jadla watę, co leżała za szafą, ale z cukrem.",
-     "9",
-    "10"
+    "Jakbym jadla watę, co leżała za szafą, ale z cukrem."
 };
         string zla_reakcje[] = {
     "Fuj! Smakuje jak sen o zepsutym jogurcie!",
@@ -69,13 +65,11 @@ public:
     "To nie jest cukierek, to trauma w folii.",
     "Smak jak z autobusu linii 145 w lipcu – bez klimy.",
     "Wypluj mnie, blagam – krzyczy moj jezyk.",
-    "Czuje sie jakbym zdradziła swoją diete i swoja godnosc.",
-     "9",
-    "10"
+    "Czuje sie jakbym zdradziła swoją diete i swoja godnosc."
 };
         string dramatyczna_reakcje[] = {
-        "ajajajaja",
-         "9",
+        "BOŻE ŚWIĘTY, CZY TY PRÓBUJESZ MNIE ZABIĆ?!",
+         "TO SIĘ NAWET DLA ZWIERZĄT NIE DAJE, TYLKO IM POKROIĆ ŻEBY SIĘ NIE UDŁAWIŁY",
         "10"
         };
 
