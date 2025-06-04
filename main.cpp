@@ -18,8 +18,8 @@ public:
     string dramatyczna_reakcja;
 
     void losuj() {
-        string imiona[] = { "Anna", "Jan", "Ola", "Tomek", "Zosia" };
-        string nazwiska[] = { "Nowak", "Kowalski", "Wisniewski", "Kaczmarek", "Dabrowska" };
+        string imiona[] = { "Włodzimierz", "Jerzy", "Saul", "Henryk", "Gustaw", "Michał", "Konrad", "Amelia", "Miki", "Józef", "Franciszek", "Tosiek", "Paweł", "Kajtek", "Bartek", "Stefan", "Tatiana"' "Józia", "Magda", "Kasia"};
+        string nazwiska[] = { "Biały", "Różowy", "Dobrzak", "Krawiec", "Frędzel", "Zaufalski", "Kobajn", "Białodom", "Tysiewicz", "Damerski", "Zamkowski", "Górski", "Miotłowski", "Zachód", "Pitta", "Praca", "Wymach", "Łopatka", "Lisica", "Perycka"};
         string historyjki[] = {
             "Hej, słyszałem o Tobie od mojego kolegi! Podobno masz najlepsze cukierki w mieście! To prawda, że pierwszy za darmo?",
             "Wiem, że wiszę Ci trochę kasy za ostatnie cukierki, ale co powiesz na wymianę. Mogę oddać Ci moją mamę…",
